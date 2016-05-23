@@ -1,0 +1,28 @@
+body{
+  background-color: grey;
+  display: grid;
+}
+
+header {
+  margin-top: -21px;
+  background-color: royalblue;
+  color:white;
+}
+
+label {
+  margin-left: 5px;
+}
+
+input{
+  border-radius: 5px;
+  margin-left: 10px;
+}
+
+button{
+  border-radius: 5px;
+  margin-left: 10px;
+}
+
+.completed {
+  background-color: green;
+}
